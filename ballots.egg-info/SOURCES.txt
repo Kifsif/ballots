@@ -17,6 +17,8 @@ ballots/migrations/__init__.py
 ballots/static/ballots/main.css
 ballots/templates/ballots/ballot_detail.html
 ballots/templates/ballots/ballot_list.html
+ballots/templatetags/__init__.py
+ballots/templatetags/ballots.py
 polls/__init__.py
 polls/asgi.py
 polls/settings.py
